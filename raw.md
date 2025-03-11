@@ -119,3 +119,51 @@ The Supreme Honkifex approaches. The Anarcho-Imperium awaits. Prepare yourself f
 
 ---
 
+# 5. Personal Glossary
+
+## 6pool
+A Zerg rush strategy from the video game StarCraft, where a player builds a Spawning Pool after training only 6 workers. This aggressive early-game tactic aims to produce Zerglings very quickly to overwhelm opponents before they can establish proper defenses.
+
+## Antivexxers
+A play on the term "anti-vaxxers," likely referring to people who are against or skeptical of video game developers, publishers, or specific gaming platforms. The term combines "anti" with "Vexx" (possibly referencing a game, gaming company, or platform).
+
+## Buzz Lightyear
+A fictional character from Pixar's Toy Story franchise. Buzz is a space ranger action figure who initially believes he is a real space hero rather than a toy. Known for his catchphrase "To infinity and beyond!" and his friendship with Woody, Buzz is one of the main protagonists across the Toy Story series.
+
+## FTL
+Could refer to multiple things:
+1. **Faster Than Light** - A concept in science fiction related to space travel at speeds exceeding the speed of light
+2. **FTL: Faster Than Light** - A roguelike space simulation video game where players manage a spacecraft
+3. **For The Loss** - A gaming term contrary to "FTW" (For The Win)
+4. **Follow The Leader** - A children's game or strategic concept
+
+## Inside the Network
+A cryptic phrase referring to an exclusive knowledge community or hidden infrastructure that exists beneath the surface of conventional understanding. Those who are "Inside the Network" possess privileged information, access, or perspective that remains invisible to outsiders. The nature of this network is deliberately obscured—it could represent underground digital connections, esoteric knowledge circles, or parallel social structures that operate according to different rules.
+
+What defines membership in this network remains intentionally ambiguous; those who are truly "Inside" recognize each other through subtle cues, shared references, or demonstration of specific knowledge markers. The boundary between insiders and outsiders is maintained through this deliberate ambiguity—if you have to ask whether you're inside, you're almost certainly not. Those genuinely "Inside the Network" navigate a reality layer that others cannot perceive, much less access.
+
+## Jack Noir
+The Archagent of Derse and the Antiprotagonist of Homestuck, a webcomic created by Andrew Hussie. Jack Noir serves as a bureaucratic official on Derse who despises the redundant paperwork and restrictive dress code imposed upon him. After acquiring the power of the Black Queen's ring, he undergoes multiple transformations, becoming Bec Noir and other iterations across different timelines. 
+
+Jack's journey reflects a character merely trying to break free from oppressive systems, with the world and its structures positioned against him rather than the reverse. Throughout Homestuck's complex narrative, he traverses multiple universes, influences critical timeline events, and develops complicated relationships with various characters. His iconic black carapace, tendency to solve problems with stabbing, and connection to the Sovereign Slayer persona make him one of the most recognizable figures in the extensive cast of Homestuck characters.
+
+## Steins;Gate
+A critically acclaimed Japanese visual novel and anime series centered around time travel and its consequences. The story follows Rintaro Okabe, a self-proclaimed "mad scientist" who accidentally discovers a method to send messages to the past, which can alter the timeline and create different world lines. 
+
+The semicolon in "Steins;Gate" is intentional and part of its unique naming convention, shared with other titles in the Science Adventure series. The "Steins Gate" itself refers to a specific world line or timeline that avoids catastrophic future events while minimizing changes to the original timeline.
+
+Notable for its complex narrative structure, psychological depth, and exploration of concepts like the butterfly effect and world line theory, the series incorporates real-world scientific theories and references to John Titor, the famous internet time traveler claim from the early 2000s. Its signature catchphrase "El Psy Kongroo" serves as a code among the characters and has become iconic among fans.
+
+## Supreme Honkifex Z
+The author and your host: Zashiro.
+
+## The Psychic Congruence
+A form of anthropically emergent synchronicity among individuals and natural events that collectively guides humanity towards the Steins Gate timeline. This phenomenon occurs as a consequence of other possible timelines being disproportionately collapsed, creating a subtle but persistent force that aligns consciousness and reality toward specific outcomes.
+
+The Psychic Congruence manifests as seemingly coincidental events, shared intuitions, or collective unconscious knowledge that subtly influences decision-making across populations. These synchronicities are not merely random but represent the echo of collapsed probability waves from alternate timelines intersecting with our own.
+
+Often referenced in coded form as "El Psy Kongroo," The Psychic Congruence represents the underlying mechanism by which divergent world lines naturally tend toward convergence points, particularly those that maximize observers or consciousness. This process explains why certain timelines appear more "stable" or "attractive" than others in a multiverse framework.
+
+
+---
+
