@@ -1,0 +1,59 @@
+/* Print-specific styles */
+body {
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.6;
+  color: black;
+  background: white;
+  max-width: 800px;
+}
+
+article {
+  margin-bottom: 4rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* Force each article after the first to start on a new page */
+article + article {
+  break-before: page;
+  page-break-before: always;
+}
+
+h1, h2, h3 {
+  margin: 1.5rem 0 1rem;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+/* Show URLs after links when printing */
+a[href]::after {
+  content: " (" attr(href) ")";
+  font-size: 0.8em;
+  color: #666;
+}
+
+/* Hide URL display for title links */
+h2 a[href]::after {
+  display: none;
+}
