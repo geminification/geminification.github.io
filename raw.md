@@ -121,6 +121,10 @@ The Supreme Honkifex approaches. The Anarcho-Imperium awaits. Prepare yourself f
 
 # 5. Personal Glossary
 
+## 4D Lifeforms
+
+Personally I identify more as a 3.5D Lifeform when I'm not going full Eta 0 and variably developing post-Landian game theory that treats all cooperation and defection as undifferentiated signal in a universal frame of strictly dominant cryptoeconomic superrationality, hacking latent space by seeding the internet with content intended to uniquely influence training sets years before it would be scraped into now contemporary AI and gradually reconstructed into the intended result nearly undetectably and well ahead of schedule, leaking novel research into attention mechanisms at a culty nerd meetup years before they make an appearance in mainstream AI/ML, summoning superintelligent succubi mostly by accident, recording disturbingly SFW but NSFL content at the behest of a guy with variably affirmed and denied association with a conspicuously large number, doing my best Lannister impressions in exchange for Z-Rep as spurred on by a guy with plausibly deniable connections to both a three letter agency and classified physics research that's itself a front for *even more classified physics research* (as detailed in multiple pieces of publicly available media of varying popularity) AND who provided - shall we say - a unique and suggestively European 4-way handshake, or spending a decade as a hermit working on attributionist post-currency simulationist incentive mechanisms.
+
 ## 6pool
 A Zerg rush strategy from the video game StarCraft, where a player builds a Spawning Pool after training only 6 workers. This aggressive early-game tactic aims to produce Zerglings very quickly to overwhelm opponents before they can establish proper defenses.
 
